@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/git/cpp_training/Stack/cmake-build-debug/CMakeFiles/Stack.dir
+C:/Users/Admin/Desktop/git/cpp_training/Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/git/cpp_training/Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

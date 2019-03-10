@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Admin/CLionProjects/LinkedLists
+# Install script for directory: C:/Users/Admin/Desktop/git/cpp_training/LinkedLists
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Admin/CLionProjects/LinkedLists/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Admin/Desktop/git/cpp_training/LinkedLists/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
