@@ -1,0 +1,87 @@
+1. Remove Duplicates from Sorted Array 
+Given a sorted array nums, remove the duplicates.
+Given nums = [1,1,2], your function should return [1, 2]
+
+2. Rotate Array
+Given an array, rotate the array to the right by k steps, where k is non-negative.
+
+Example 1:
+
+Input: [1,2,3,4,5,6,7] and k = 3
+Output: [5,6,7,1,2,3,4]
+Explanation:
+rotate 1 steps to the right: [7,1,2,3,4,5,6]
+rotate 2 steps to the right: [6,7,1,2,3,4,5]
+rotate 3 steps to the right: [5,6,7,1,2,3,4]
+Example 2:
+
+Input: [-1,-100,3,99] and k = 2
+Output: [3,99,-1,-100]
+Explanation: 
+rotate 1 steps to the right: [99,-1,-100,3]
+rotate 2 steps to the right: [3,99,-1,-100]
+
+void rotate(vector<int>& nums, int k) {
+	
+}
+
+3. Merge Sorted Array
+Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.
+
+Example:
+
+Input:
+nums1 = [1,2,3,]
+nums2 = [2,5,6]
+
+Output: [1,2,2,3,5,6]
+
+void merge(vector<int>& nums1, vector<int>& nums2) {
+}
+
+4. Missing Number
+Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
+
+Example 1:
+
+Input: [3,0,1]
+Output: 2
+Example 2:
+
+Input: [9,6,4,2,3,5,7,0,1]
+Output: 8
+
+int missingNumber(vector<int>& nums) {
+}
+
+5. Maximum Subarray
+Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
+Example:
+
+Input: [-2,1,-3,4,-1,2,1,-5,4],
+Output: 6
+Explanation: [4,-1,2,1] has the largest sum = 6.
+
+int maxSubArray(vector<int>& nums) {
+}
+
+6. 3Sum
+Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
+
+Note:
+
+The solution set must not contain duplicate triplets.
+
+Example:
+
+Given array nums = [-1, 0, 1, 2, -1, -4],
+
+A solution set is:
+[
+  [-1, 0, 1],
+  [-1, -1, 2]
+]
+
+vector<vector<int>> threeSum(vector<int>& nums) {
+}
