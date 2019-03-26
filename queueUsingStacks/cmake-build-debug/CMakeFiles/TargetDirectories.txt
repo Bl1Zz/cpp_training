@@ -1,0 +1,3 @@
+D:/GIT/github_my/cpp_training/queueUsingStacks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/GIT/github_my/cpp_training/queueUsingStacks/cmake-build-debug/CMakeFiles/queueUsingStacks.dir
+D:/GIT/github_my/cpp_training/queueUsingStacks/cmake-build-debug/CMakeFiles/edit_cache.dir

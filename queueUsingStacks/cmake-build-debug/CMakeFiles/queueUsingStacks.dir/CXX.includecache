@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/GIT/github_my/cpp_training/queueUsingStacks/header.h
+iostream
+-
+bits/stdc++.h
+-
+
+D:/GIT/github_my/cpp_training/queueUsingStacks/source.cpp
+iostream
+-
+bits/stdc++.h
+-
+header.h
+D:/GIT/github_my/cpp_training/queueUsingStacks/header.h
+
