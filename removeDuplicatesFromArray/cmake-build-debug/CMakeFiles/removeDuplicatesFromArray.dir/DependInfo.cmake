@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/GIT/github_my/cpp_training/removeDuplicatesFromArray/main.cpp" "D:/GIT/github_my/cpp_training/removeDuplicatesFromArray/cmake-build-debug/CMakeFiles/removeDuplicatesFromArray.dir/main.cpp.obj"
+  "C:/Data/GIT/cpp_training/removeDuplicatesFromArray/main.cpp" "C:/Data/GIT/cpp_training/removeDuplicatesFromArray/cmake-build-debug/CMakeFiles/removeDuplicatesFromArray.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

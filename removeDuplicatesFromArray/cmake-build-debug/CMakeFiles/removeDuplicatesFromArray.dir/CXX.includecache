@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-D:/GIT/github_my/cpp_training/removeDuplicatesFromArray/main.cpp
+C:/Data/GIT/cpp_training/removeDuplicatesFromArray/main.cpp
 iostream
+-
+bits/stdc++.h
+-
+vector
 -
 

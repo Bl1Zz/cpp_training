@@ -1,4 +1,4 @@
-# Install script for directory: D:/GIT/github_my/cpp_training/removeDuplicatesFromArray
+# Install script for directory: C:/Data/GIT/cpp_training/removeDuplicatesFromArray
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/GIT/github_my/cpp_training/removeDuplicatesFromArray/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Data/GIT/cpp_training/removeDuplicatesFromArray/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,3 +1,3 @@
-D:/GIT/github_my/cpp_training/removeDuplicatesFromArray/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/GIT/github_my/cpp_training/removeDuplicatesFromArray/cmake-build-debug/CMakeFiles/removeDuplicatesFromArray.dir
-D:/GIT/github_my/cpp_training/removeDuplicatesFromArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Data/GIT/cpp_training/removeDuplicatesFromArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Data/GIT/cpp_training/removeDuplicatesFromArray/cmake-build-debug/CMakeFiles/removeDuplicatesFromArray.dir
+C:/Data/GIT/cpp_training/removeDuplicatesFromArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
